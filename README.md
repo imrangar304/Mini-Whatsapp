@@ -4,8 +4,8 @@
 To execute the files
 => open terminals
 
-gcc server.c -o abc
+gcc server.cpp -o abc
 ./abc 7799
 
-gcc clinet.c -o xxyz
+gcc clinet.cpp -o xxyz
 ./xyz 127.0.0:1 7799
